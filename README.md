@@ -3,7 +3,8 @@ Tiny NodeJS Static Web Server
 
 ## 安装
 ```
-npm i -g anyplace
+npm i -g anyy
+anyplace 启动
 ```
 
 ##使用方法
